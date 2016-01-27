@@ -1,4 +1,4 @@
-### Continuously deploy with nearly any static site tool.
+### Test and continuously deploy with nearly any static site tool.
 
 You may have used the Jekyll integration in Github Pages for your site; but moved onto some other static tool or web host. At the same time you may have lost that ease of deployment. No longer able to 'git push' and walk away knowing the site will get updated. There is a way to get that back.
 
