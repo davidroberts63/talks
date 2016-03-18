@@ -11,3 +11,4 @@ The audience would be people that know at least a little bit of Angular, such as
 - Modifying existing templates.
 - Adding directives to existing elements.
 - The truth about Chrome Extensions and how to use it to your advantage.
+- Probably NOT go into detail of Chrome Extensions but will consider it. Focus is on the Angular modding side of things.
