@@ -11,4 +11,6 @@ All of the experience for this talk comes from writing a single Chrome extension
 - Background/Event scritps
 - Options pages (and storage)
 - Common chrome.* APIs
+- Tips for debugging locally but off when deployed
 - Publishing in the developer dashboard
+- What you get in the developer dashboard: installation numbers, user feedback, etc...
