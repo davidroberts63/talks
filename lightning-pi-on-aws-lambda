@@ -1,0 +1,10 @@
+# Calculating Pi with Amazon Lambdas
+
+Parallelizing a task with Amazon Lambdas can be a lot of fun. This will be a lightning short introduction to using Amazon Lambdas and how to call them while calculating Pi.
+
+### Points to cover
+- Creating an Amazone Lambda function
+- Creating the HTTP request trigger
+- Connecting the two
+- Running the sample Pi calculator app
+- Looking at the monitoring graphs available in Amazon's Lambda service
