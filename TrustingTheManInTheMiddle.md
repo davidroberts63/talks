@@ -1,5 +1,4 @@
 # Trusting the man in the middle
 
-Software development in a corporate environment can be trying at times. Many corporate environments have a 'Man in the middle' watching all the encrypted traffic as it flows, you know for security. For our browsers this usualy works without a problem. But for your development tools, those corporate certificates cause problems.
+Do you experience 'SSL connection refused, untrusted certificate' type errors in your development environment? Some work environments have a 'Man in the middle' watching all the encrypted traffic as it flows, via a proxy or other methods. We can fix this in our browsers without to much trouble, but it's a bit more difficult with development tools. Come find out how you can get your node, r, go, rust, ruby, .net, and python development environments, in Linux and Windows, to trust these man in the middle certificates and let you get on with your work.
 
-There are ways to solve these problems. I'll show you how to trust the man in the middle so that as you use npm, r, go, ruby, and python you can avoid the 'SSL connection refused, untrusted certificate' error; on Windows and Linux.
