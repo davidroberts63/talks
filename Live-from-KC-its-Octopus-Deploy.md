@@ -1,0 +1,3 @@
+# Live from KC, it's Octopus Deploy!
+
+Have you seen Octopus Deploy lately? No, really! Just last month they released yet more new features. Come take a look at this deployment tool from the perspective of a company with 200 IT employees. You will get to see real world deployment processes and watch as a deployment happens during the talk. I'll share some tips so you can get the most out of Octoups Deploy, as well as see some of the new features they have released. Octopus Deploy isn't just for your development applications, it can also be used to deploy your off the shelf software server applications, join me so you can find out how to reduce your time manually setting up projects and apps.
